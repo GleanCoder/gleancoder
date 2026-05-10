@@ -18,7 +18,7 @@
 <td>
 
 ✨ Creating bugs since my first "Hello World"  
-📚 I'm currently learning Backend Development  
+📚 I'm currently learning Fullstack Development  
 🎯 Goals: Master Backend, System Design, and Distributed Systems  
 🎲 Fun fact: console.log() is still my best friend
 
